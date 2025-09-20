@@ -5,7 +5,7 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 import NvvApp from './NvvApp';
 
-const root = ReactDOM.createRoot(document.getElementById('tvc-root'));
+const root = ReactDOM.createRoot(document.getElementById('nvv-root'));
 root.render(
   <React.StrictMode>
     <NvvApp />
